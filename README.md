@@ -9,8 +9,7 @@ finalizado junto con el nombre / carné de la persona que toma la captura.
 4. Agregue las imágenes en el Readme de su carpeta de forma que sean visibles desde el repositorio.
 
 ## Alejandro 
-
-https://github.com/AngeLCuervo/CVDS-LAB1/blob/Origin/imagenes/imagen1.png
-https://github.com/AngeLCuervo/CVDS-LAB1/blob/Origin/imagenes/imagen2.png
+![imagen1](https://github.com/AngeLCuervo/CVDS-LAB1/blob/Origin/imagenes/imagen1.png)
+![imagen2](https://github.com/AngeLCuervo/CVDS-LAB1/blob/Origin/imagenes/imagen2.png)
 
 ## Angel
