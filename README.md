@@ -1,28 +1,13 @@
-# Universidad
-Escuela Colombiana de Ingeniería Julio Garavito 
-##### _Angel Nicolas Cuervo Naranjo_ 
-- Estudiante de Ingeniería de sistemas
-- versátil
-- ✨**Lider✨**
+# PARTE III. - GIT BRANCHING
 
-## Plan de estudios
- World Cup 2014
-  1. RECO
-  2. CVDS
+Trabajo Individual:
 
-> Estudiante Ingeniero de Sistemas dedicado, estudie estudio en la Escuela Colombiana de Ingeniería Julio Garavito y estoy cursando septimo semestre, tengo gran interés por la parte de gerencia de proyectos y supervisión. trabajo muy bien en equipo y bajo presion, cuento con experiencia en programación en Python, tengo experiencia en modelos y bases de datos.
+1. Ingrese a la página web: https://learngitbranching.js.org/
+2. Complete todos los ejercicios de dicha página Web (tanto de la sección "Main" como "Remote").
+3. Realice las 2 capturas de pantalla necesarias, donde se vean finalizados todos los nodos de cada sección. Se debe también visualizar la fecha y hora de
+finalizado junto con el nombre / carné de la persona que toma la captura.
+4. Agregue las imágenes en el Readme de su carpeta de forma que sean visibles desde el repositorio.
 
-```
-// Puedes busacarme en mi LinkedIn
-for(int i = 0; i < 10; i++) {
-printf(“Valor de i = :) , i)
-}
-```
+## Alejandro 
 
-
-Link de la Universidad:
-<https://www.escuelaing.edu.co/es/>
-
-![image 1][1]
-
-[1]: https://www.aeci.org.co/wp-content/uploads/2021/11/image-1.png
+## Angel
