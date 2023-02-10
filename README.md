@@ -10,6 +10,7 @@ finalizado junto con el nombre / carné de la persona que toma la captura.
 
 ## Alejandro 
 
-https://github.com/AngeLCuervo/CVDS-LAB1/blob/Origin/imagenes/Captura%20de%20Pantalla%202023-02-09%20a%20la(s)%2011.43.59%20p.m.
+https://github.com/AngeLCuervo/CVDS-LAB1/blob/Origin/imagenes/imagen1.png
+https://github.com/AngeLCuervo/CVDS-LAB1/blob/Origin/imagenes/imagen2.png
 
 ## Angel
